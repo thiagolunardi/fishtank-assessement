@@ -1,0 +1,13 @@
+/home/thiago/github.com/thiagolunardi/fishtank-assessement/src/FishTank/obj/Debug/netcoreapp3.1/FishTank.csprojAssemblyReference.cache
+/home/thiago/github.com/thiagolunardi/fishtank-assessement/src/FishTank/obj/Debug/netcoreapp3.1/FishTank.AssemblyInfoInputs.cache
+/home/thiago/github.com/thiagolunardi/fishtank-assessement/src/FishTank/obj/Debug/netcoreapp3.1/FishTank.AssemblyInfo.cs
+/home/thiago/github.com/thiagolunardi/fishtank-assessement/src/FishTank/obj/Debug/netcoreapp3.1/FishTank.csproj.CoreCompileInputs.cache
+/home/thiago/github.com/thiagolunardi/fishtank-assessement/src/FishTank/bin/Debug/netcoreapp3.1/FishTank
+/home/thiago/github.com/thiagolunardi/fishtank-assessement/src/FishTank/bin/Debug/netcoreapp3.1/FishTank.deps.json
+/home/thiago/github.com/thiagolunardi/fishtank-assessement/src/FishTank/bin/Debug/netcoreapp3.1/FishTank.runtimeconfig.json
+/home/thiago/github.com/thiagolunardi/fishtank-assessement/src/FishTank/bin/Debug/netcoreapp3.1/FishTank.runtimeconfig.dev.json
+/home/thiago/github.com/thiagolunardi/fishtank-assessement/src/FishTank/bin/Debug/netcoreapp3.1/FishTank.dll
+/home/thiago/github.com/thiagolunardi/fishtank-assessement/src/FishTank/bin/Debug/netcoreapp3.1/FishTank.pdb
+/home/thiago/github.com/thiagolunardi/fishtank-assessement/src/FishTank/obj/Debug/netcoreapp3.1/FishTank.dll
+/home/thiago/github.com/thiagolunardi/fishtank-assessement/src/FishTank/obj/Debug/netcoreapp3.1/FishTank.pdb
+/home/thiago/github.com/thiagolunardi/fishtank-assessement/src/FishTank/obj/Debug/netcoreapp3.1/FishTank.genruntimeconfig.cache

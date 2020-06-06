@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2fM3vF4o1mJcCAudEKO++GwIPLijZLVITyGdn7l8G5w4qvYTSTG4W3OaKwJaC5YHAfkkrwAFVS5gTZ+9bs/INA==",
+  "success": true,
+  "projectFilePath": "/home/thiago/github.com/thiagolunardi/fishtank-assessement/src/FishTank/FishTank.csproj",
+  "expectedPackageFiles": [
+    "/home/thiago/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
